@@ -1,3 +1,3 @@
 <h1 align="center">MercuryDev</h1>
 
-![Views](https://komarev.com/ghpvc/?username=Mercurydev986&color=black)
+![Views](https://komarev.com/ghpvc/?username=Mercurydev986&color=ff69b4)
