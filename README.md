@@ -8,6 +8,7 @@
 <br />
 
 Hello, I'm Mercury, a full stack developer from India <img src="https://discordapp.com/assets/cfe70da9dbbd44c91aa4310481dcba89.svg" width="30px">
+<br>
 I mostly like to work on server side projects!
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
