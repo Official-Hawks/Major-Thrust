@@ -4,7 +4,7 @@
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mercurydev986&color=blueviolet)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/Major Thrust#0198?simple=true
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/Major Thrust#0198?simple=true)
 
 <br />
 
