@@ -8,7 +8,7 @@
 
 <br />
 
-Hello, I'm Mercury, a full stack developer from India <img src="https://discordapp.com/assets/cfe70da9dbbd44c91aa4310481dcba89.svg" width="30px">
+Hello, I'm Major Thrust, a full stack developer from India <img src="https://discordapp.com/assets/cfe70da9dbbd44c91aa4310481dcba89.svg" width="30px">
 <br>
 I mostly like to work on server side projects!
 
