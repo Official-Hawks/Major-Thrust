@@ -4,6 +4,8 @@
   <img align = "middle" src="https://raw.githubusercontent.com/Major-Thrust/Major-Thrust/main/GitHub_banner.png"/>
 </a>
 
+<br>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mercurydev986&color=blueviolet) ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/759612206995603486?simple=true)
@@ -51,6 +53,6 @@ Unreleased:
 > 
 > *Discord* - Major Thrust#0198
 > 
-> * Commissions - Open
+>  Commissions - Open
 
 </div>
