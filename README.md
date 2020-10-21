@@ -1,57 +1,56 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/FvhkvDz">
-  <img align="center" alt="My Discord" width="22px" src="https://raw.githubusercontent.com/Major-Thrust/Major-Thrust/main/GitHub_banner.png" />
+  <img align = "middle" src="https://raw.githubusercontent.com/Major-Thrust/Major-Thrust/main/GitHub_banner.png"/>
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mercurydev986&color=blueviolet)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/759612206995603486?simple=true)
+<div align="center">
 
-<br />
+![Profile Views](https://komarev.com/ghpvc/?username=Mercurydev986&color=blueviolet) ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/759612206995603486?simple=true)
 
-Hello, I'm Major Thrust, a full stack developer from India <img src="https://discordapp.com/assets/cfe70da9dbbd44c91aa4310481dcba89.svg" width="30px">
+</div>
+
+________________________________________________________________________
+
+### Languages and tools I use to code!
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="40px"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">
+
+### Currently Learning!
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-plain.svg" width="40px">
+
+### Currently working on
+
+Unreleased:
+
+**diswrap.js** - Modern easy to use discord API wrapper written in JavaScript_
+
+**PayWay.js**  - A PayPal / Stripe API wrapper to handle those payments with ease! 
+
+**ezmongo** - Is mongo complex? This beginner friendly library helps you use MongoDB like a pro!
+
+------------------------------------------------------------------------------------------
+
+**My cool Noob Stats**
+
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Major-Thrust&theme=tokyonight">
+
 <br>
-I mostly like to work on server side projects!
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
-
-- 👨 I'm currently working on an discord API wrapper :wink:;
-- 🌱 I’m currently learning kotlin;
-- 💬 Join my discord server if you need help :D;
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Javascript    34 hrs 5 mins  ████████████░░░░░░░░░░░░░   48.33 % 
-Typescript    18 hrs 27 mins █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Kotlin        7 hrs 16 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.03 % 
-JSON          1 hr 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Markdown     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-```
-<!--END_SECTION:waka-->
-
-🥶 **Todo List:**
-<!-- TODO-IST:START -->        
-🌸   Should work on structures in diswrap.js          
-😪   Should sleep well                      
-<!-- TODO-IST:END -->
 
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+**Mostly used languages**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mercurydev986&show_icons=true&theme=gotham" alt="Mercurydev986
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major-Thrust&theme=tokyonight&hide=batchfile">
 
-</details>
+<br>
 
+<div align="center">
 
+> **contact me on discord for commion works**
+> 
+> *Discord* - Major Thrust#0198
+> 
+> * Commissions - Open
+
+</div>
