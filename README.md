@@ -48,7 +48,7 @@ Unreleased:
 
 <div align="center">
 
-> **contact me on discord for commion works**
+> **contact me on discord for commission works**
 > 
 > *Discord* - Major Thrust#0198
 > 
