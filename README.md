@@ -47,7 +47,7 @@ Unreleased:
 
 > **contact me on discord for commission works**
 > 
-> *Discord* - Major Thrust#0198
+> *Discord* - ItzCuteRaichu#6593
 > 
 >  Commissions - Open
 
