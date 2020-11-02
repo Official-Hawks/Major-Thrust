@@ -1,8 +1,5 @@
 
-### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  <img align = "middle" src="https://raw.githubusercontent.com/Major-Thrust/Major-Thrust/main/GitHub_banner.png"/>
-</a>
-
+### Hello! 
 <br>
 
 <div align="center">
