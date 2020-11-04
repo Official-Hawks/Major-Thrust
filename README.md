@@ -47,7 +47,7 @@ Unreleased:
 
 > **contact me on discord for commission works**
 > 
-> *Discord* - ItzCuteRaichu#6593
+> *Discord* - Weirdo#6593
 > 
 >  Commissions - Open
 
